@@ -1,4 +1,6 @@
-## 🙌 Please Click the Colab Link 
+## 🙌 Please click the Colab below to check project details
+수행 기간, 모델 학습 및 결과를 포함한 프로젝트 세부사항은 아래 Colab링크를 통해서 확인해주세요!  
+
 https://colab.research.google.com/drive/1SHZLikX2lxOFNJqKXDNEG3tK458RIFhq?usp=sharing
 
 <br/>
